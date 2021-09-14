@@ -48,3 +48,7 @@ body {
   text-align: center;
   font-size: 2rem;
 }
+
+textarea {
+  font-size: 2rem;
+}
